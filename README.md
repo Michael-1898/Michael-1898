@@ -4,7 +4,7 @@
 <div>
   <ul>
     <li>senior in highschool</li>
-    <li>experience making 5 games</li>
+    <li>experience making 6 games</li>
     <li>interested in game dev, programming, and AI</li>
   </ul>
 </div>
@@ -22,6 +22,9 @@
 
 <h1>Projects:</h1>
 <h3>Pigment: Summer 2023</h3>
+<h3>Marble Madness: Summer 2023</h3>
+<h3>Stoneclad: School Year 2022-2023</h3>
+<h3>Toucan Game</h3>
 
 <!--
 **Michael-1898/Michael-1898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
