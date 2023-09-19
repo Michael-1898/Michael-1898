@@ -1,4 +1,13 @@
-### Hi there 🤢
+### Hi 👋
+
+### About Me
+<div>
+  <ul>
+    <li>senior in highschool</li>
+    <li>experience making 5 games</li>
+    <li>interested in game dev, programming, and AI</li>
+  </ul>
+</div>
 
 ### Languages
 <div>
