@@ -1,5 +1,3 @@
-### Hi 👋
-
 ### About Me
 <div>
   <ul>
