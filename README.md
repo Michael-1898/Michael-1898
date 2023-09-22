@@ -1,12 +1,9 @@
 ### About Me
 <div>
-  <p>I'm a senior in highschool in an IT/IMP program. I have around 3 years of experience in programming and game development and have developed 6 games. I'm hard-working and commited to improvement and learning.<br>
-    I'm interested in game development, programming, AI, and cybersecurity.</p>
-  <ul>
-    <li>senior in highschool</li>
-    <li>experience making 6 games</li>
-    <li>interested in game dev, programming, and AI</li>
-  </ul>
+  <p>
+    I'm a senior in highschool in an IT/IMP program. I have around 3 years of experience in programming and game development and have developed 6 games. I'm hard-working and commited to improvement and learning.<br>
+    I'm interested in game development, programming, AI, and cybersecurity.
+  </p>
 </div>
 
 ### Languages
