@@ -1,5 +1,6 @@
 ### About Me
 <div>
+  <p>I'm a senior in the I.T./I.M.P. program at the George Washington Carver Center for Arts and Tech. I'm interested in game development, programming, AI, and cybersecurity.</p>
   <ul>
     <li>senior in highschool</li>
     <li>experience making 6 games</li>
