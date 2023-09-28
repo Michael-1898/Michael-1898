@@ -20,8 +20,11 @@
 
 <h1>Projects:</h1>
 <h3>Pigment: Summer 2023</h3>
+<img src = "./pigmentTitleScreen.png" />
 <h3>Marble Madness: Summer 2023</h3>
+<img src = "./MarbleMadnessTitleSlide.png" />
 <h3>Stoneclad: School Year 2022-2023</h3>
+<img src = "./Stoneclad_Cover.png" />
 <h3>Toucan Game: Spring 2022</h3>
 
 <!--
