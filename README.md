@@ -26,6 +26,7 @@
 <h3>Stoneclad: School Year 2022-2023</h3>
 <img src = "./Stoneclad_Cover.png" />
 <h3>Toucan Game: Spring 2022</h3>
+<img src = "./ToucanGame_Screenshot.png" />
 
 <!--
 **Michael-1898/Michael-1898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
