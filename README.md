@@ -1,8 +1,10 @@
 ### About Me
 <div>
   <p>
-    I'm a senior in highschool in an IT/IMP program. I have around 3 years of experience in programming and game development and have developed 6 games. I'm hard-working and commited to improvement and learning.<br>
-    I'm interested in game development, programming, AI, and cybersecurity.
+    I'm a highly motivated and diligent high school senior with a concentration in computer science and media production. Skilled in identifying and addressing conflicts in areas ranging from technical programming, project design, and team leadership and collaboration. I
+    honed these skills over 3+ years of experience in programming and game development. My short term goal is to attend an Ai focused computer science program at a college or university to earn my  bachelor’s degree in computer science. My long term goal is to apply my
+    energy and knowledge of computer science and Ai to solve the world’s most pressing issues such as climate change, energy sustainability, healthcare, or national security. Although I haven’t yet decided which of these exact fields I will ultimately use my skills in,
+    I am committed to making a meaningful impact in one of these areas.
   </p>
 </div>
 
