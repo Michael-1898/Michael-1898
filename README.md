@@ -22,16 +22,17 @@
 </div>
 
 <h1>Projects:</h1>
+<a href="https://github.com/Michael-1898/Game_Downloads">Download games here</a>
 <h3>Pigment: Summer 2023</h3>
 <img src = "./pigmentTitleScreen.png" />
 <h3>Marble Madness: Summer 2023</h3>
-<a href="https://michael-1898.github.io/MarbleMadness_Remake/">Play the game</a>
+<a href="https://michael-1898.github.io/MarbleMadness_Remake/">Play the game in your browser</a>
 <img src = "./MarbleMadnessTitleSlide.png" />
 <h3>Stoneclad: School Year 2022-2023</h3>
-<a href="https://michael-1898.github.io/Stoneclad/">Play the game</a>
+<a href="https://michael-1898.github.io/Stoneclad/">Play the game in your browser</a>
 <img src = "./Stoneclad_Cover.png" />
 <h3>Toucan Game: Spring 2022</h3>
-<a href="https://michael-1898.github.io/TheToucanGame/">Play the game</a>
+<a href="https://michael-1898.github.io/TheToucanGame/">Play the game in your browser</a>
 <img src = "./ToucanGame_Screenshot.PNG" />
 
 <!--
