@@ -24,7 +24,7 @@
 <h1>Projects:</h1>
 <a href="https://github.com/Michael-1898/Game_Downloads">Download games here</a>
 <h3>Pigment: Summer 2023</h3>
-<img src = "./pigmentTitleScreen.png" />
+<img src = "./pigmentTitle.png" />
 <h3>Marble Madness: Summer 2023</h3>
 <a href="https://michael-1898.github.io/MarbleMadness_Remake/">Play the game in your browser</a>
 <img src = "./MarbleMadnessTitleSlide.png" />
