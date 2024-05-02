@@ -25,15 +25,37 @@
 <a href="https://github.com/Michael-1898/Game_Downloads">Download games here</a>
 <h3>Pigment: Summer 2023</h3>
 <img src = "./pigmentTitle.png" />
+<ul>
+  <li>Pigment is a 2D puzzle game where the player plays as a sentient blob of paint who tries to eat all the paintings in the studio</li>
+  <li>worked as a producer and programmer, leading a team of five consisting of two artists, two progammers, and a sound designer</li>
+  <li>won Most Innovative Puzzle Design Award</li>
+</ul>
+
 <h3>Marble Madness: Summer 2023</h3>
 <a href="https://michael-1898.github.io/MarbleMadness_Remake/">Play the game in your browser</a>
 <img src = "./MarbleMadnessTitleSlide.png" />
+<ul>
+  <li>This is a remake of the classic arcade game <i>Marble Madness</i></li>
+  <li>worked as a lead programmer in a team of four consisting of one artist, two programmers, and a sound designer/producer</li>
+</ul>
+
 <h3>Stoneclad: School Year 2022-2023</h3>
 <a href="https://michael-1898.github.io/Stoneclad/">Play the game in your browser</a>
 <img src = "./Stoneclad_Cover.png" />
-<h3>Toucan Game: Spring 2022</h3>
+<ul>
+  <li>Stoneclad is a 2D boss rush action game where the player faces various monsters and machines they have to defeat to complete the game. It also includes a working level editor.</li>
+  <li>I devloped the game and worked with a friend who developed the level editor for it</li>
+  <li>voted a class favorite game</li>
+</ul>
+
+
+<h3>Toucan Tumble: Spring 2022</h3>
 <a href="https://michael-1898.github.io/TheToucanGame/">Play the game in your browser</a>
 <img src = "./ToucanGame_Screenshot.PNG" />
+<ul>
+  <li>Toucan Tumble is a 2D endless runner style game where the player controls a toucan and flaps its wings to stay on the screen for as long as they can while falling debris tries to knock them off</li>
+  <li>Toucan Tumble was entirely developed by me, including art, game design, and programming</li>
+</ul>
 
 <!--
 **Michael-1898/Michael-1898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
