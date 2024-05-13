@@ -51,7 +51,7 @@
 
 <h3>Toucan Tumble: Spring 2022</h3>
 <a href="https://michael-1898.github.io/TheToucanGame/">Play the game in your browser</a>
-<img src = "./ToucanGame_Screenshot.PNG" />
+<img src = "./ToucanPoster.PNG" />
 <ul>
   <li>Toucan Tumble is a 2D endless runner style game where the player controls a toucan and flaps its wings to stay on the screen for as long as they can while falling debris tries to knock them off</li>
   <li>Toucan Tumble was entirely developed by me, including art, game design, and programming</li>
