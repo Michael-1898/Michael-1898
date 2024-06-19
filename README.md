@@ -49,11 +49,12 @@
 </ul>
 
 
-<h3>Toucan Tumble: Spring 2022</h3>
+<h3>Toucan Tumble: Spring 2022 & Summer 2024</h3>
 <a href="https://michael-1898.github.io/TheToucanGame/">Play the game in your browser</a>
 <img src = "./ToucanTumble_Poster.png" />
 <ul>
-  <li>Toucan Tumble is a 2D arcade style game where the player controls a toucan and flaps its wings to stay on the screen for as long as they can while falling debris tries to knock them off</li>
+  <li><a href ="https://michael-1898.itch.io/toucan-tumble">Download on your phone with Itch.io</a></li>
+  <li>Toucan Tumble is a 2D mobile game where the player controls a toucan and flaps its wings to stay on the screen for as long as they can while falling debris tries to knock them off</li>
   <li>Toucan Tumble was entirely developed by me, including art, game design, and programming</li>
 </ul>
 
