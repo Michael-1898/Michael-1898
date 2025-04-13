@@ -24,6 +24,7 @@
 <h1>Projects:</h1>
 <a href="https://github.com/Michael-1898/Game_Downloads">Download games here</a>
 <h3>Pigment: Summer 2023</h3>
+<a href="https://www.newgrounds.com/portal/view/975720">Play the game in your browser</a>
 <img src = "./pigmentTitle.png" />
 <ul>
   <li>Pigment is a 2D puzzle game where the player plays as a sentient blob of paint who tries to eat all the paintings in the studio</li>
